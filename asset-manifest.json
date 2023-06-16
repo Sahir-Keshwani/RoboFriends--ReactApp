@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RoboFriends--ReactApp/static/css/main.14fcac67.css",
+    "main.js": "/RoboFriends--ReactApp/static/js/main.9752e5ee.js",
+    "static/js/787.32032a02.chunk.js": "/RoboFriends--ReactApp/static/js/787.32032a02.chunk.js",
+    "static/media/El Tito Adolfo.woff": "/RoboFriends--ReactApp/static/media/El Tito Adolfo.b6bb1fc0b3c030703c04.woff",
+    "index.html": "/RoboFriends--ReactApp/index.html",
+    "main.14fcac67.css.map": "/RoboFriends--ReactApp/static/css/main.14fcac67.css.map",
+    "main.9752e5ee.js.map": "/RoboFriends--ReactApp/static/js/main.9752e5ee.js.map",
+    "787.32032a02.chunk.js.map": "/RoboFriends--ReactApp/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14fcac67.css",
+    "static/js/main.9752e5ee.js"
+  ]
+}
